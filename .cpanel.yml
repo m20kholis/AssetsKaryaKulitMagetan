@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1734260/public_html/pps.alabidin.id/trialdulu/dataonline
+    - /bin/cp -R css $DEPLOYPATH
